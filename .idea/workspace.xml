@@ -4,116 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did some exercise on my own.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/Exercise/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/Exercise/UIControl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/NesoAcademy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/AnalyzeNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ArrayClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ArrayDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Chart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ClassA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ClassB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/CompanyInsures.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/DataTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/DivisibleNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/EscapeSequences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/EvenOdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ExamplesDateandTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Exercise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Extra.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ForExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/GenderAge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Grade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Grade1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/GrossSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/IfStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/LeapYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/MaximumNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Mustafa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/NegativePositive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/NestedLoops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Question36.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ScannerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/StringClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Strings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/StudentGrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/ThreeMaximum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/UnitCharges.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/WhileLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/WrapperClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New Project/myself/X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NesoAcademy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ArrayClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Chart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/CompanyInsures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/DivisibleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/EscapeSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ExamplesDateandTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Extra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/GenderAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Grade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/GrossSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/MaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Mustafa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/NegativePositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Question36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ScannerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/StringClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/ThreeMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/UnitCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myself/WrapperClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did some exercise on my own." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679183566026</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I did some exercise on my own.">
+      <created>1679517407985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679517407985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
