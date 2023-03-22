@@ -9,6 +9,12 @@ public class Person {
     private Date DOB;
     protected String gender;
 
+    public Person(String fName, String lName, Date DOB, String gender) {
+        this.fName = fName;
+        this.lName = lName;
+        this.DOB = DOB;
+        this.gender = gender;
+    }
 
     public Date getDOB() {
         return DOB;
