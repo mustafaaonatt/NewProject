@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I created Exception package to exercise exceptions.">
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Main.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I created Exception package to exercise exceptions.&#10;I added some more codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +37,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PollyApp">
+  <component name="RunManager" selected="Application.ExceptionHandling.Main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise.App" />
       <module name="New Project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Main" />
+      <module name="New Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myself.Question36" />
-      <module name="New Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandling.Main" />
         <item itemvalue="Application.PollyApp" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Question36" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679678838911</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I created Exception package to exercise exceptions.&#10;I added some more codes">
+      <created>1679679133848</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679679133848</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,7 @@
     <MESSAGE value="I did some exercise on my own." />
     <MESSAGE value="I added some classes for exercise" />
     <MESSAGE value="I created Exception package to exercise exceptions." />
-    <option name="LAST_COMMIT_MESSAGE" value="I created Exception package to exercise exceptions." />
+    <MESSAGE value="I created Exception package to exercise exceptions.&#10;I added some more codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I created Exception package to exercise exceptions.&#10;I added some more codes" />
   </component>
 </project>
