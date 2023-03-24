@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added some classes for exercise">
-      <change afterPath="$PROJECT_DIR$/src/PolymorhismExercise/PollyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PolymorhismExercise/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorhismExercise/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PolymorhismExercise/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorhismExercise/Lecturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PolymorhismExercise/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorhismExercise/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added some classes for exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679520610921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="I added some classes for exercise">
+      <created>1679521847934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679521847934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
