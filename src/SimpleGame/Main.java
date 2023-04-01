@@ -5,6 +5,15 @@ public class Main {
         Player1 player = new Player1("Mustafa", "sword", 100);
 
         player.damageByGun1();
+        player.damageByGun2();
+        player.heal();
+
+        Player2 bestPlayer = new Player2("Ali", "machine gun",100,false);
+
+        bestPlayer.damageByGun1();
+        bestPlayer.damageByGun2();
+        bestPlayer.heal();
+
 
 
 

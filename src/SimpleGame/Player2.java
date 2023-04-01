@@ -31,7 +31,7 @@ public class Player2 extends Player1{
         if(armour){
             health -= 40;
             if (health <= 0) health = 0;
-            System.out.println("Armour is on. " + getName() + "Got hit by gun 2. Health is reduced by 40." + " New health is " + health);
+            System.out.println("Armour is on. " + getName() + " Got hit by gun 2. Health is reduced by 40." + " New health is " + health);
         }if (!armour){
             health -= 50;
             if (health <= 0) health = 0;
@@ -44,10 +44,11 @@ public class Player2 extends Player1{
 
     @Override
     public void heal() {
-        if(health <= 0 ){
+        if(health<= 0 ){
             System.out.println(getName() + " is dead. Heal is not possible");
         }else{
-            health = 100;
+           health = 100;
+            System.out.println("Health is " + health);
         }
     }
 }
