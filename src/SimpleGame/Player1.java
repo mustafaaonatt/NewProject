@@ -59,4 +59,11 @@ public class Player1 {
     public void setHealth(int health) {
         this.health = health;
     }
+    public void  heal(){
+        if(this.health <= 0 ){
+            System.out.println(getName() + " is dead. Heal is not possible");
+        }else{
+            this.health = 100;
+        }
+    }
 }

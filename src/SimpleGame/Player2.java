@@ -41,4 +41,13 @@ public class Player2 extends Player1{
             System.out.println(getName() + " is dead");
         }
     }
+
+    @Override
+    public void heal() {
+        if(this.health <= 0 ){
+            System.out.println(getName() + " is dead. Heal is not possible");
+        }else{
+            this.health = 100;
+        }
+    }
 }
