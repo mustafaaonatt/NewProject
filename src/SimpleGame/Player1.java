@@ -64,6 +64,7 @@ public class Player1 {
             System.out.println(getName() + " is dead. Heal is not possible");
         }else{
             this.health = 100;
+            System.out.println("Health is " + this.health);
         }
     }
 }

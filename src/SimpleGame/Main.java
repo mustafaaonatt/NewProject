@@ -7,13 +7,11 @@ public class Main {
 //       System.out.println(player.getWeapon());
 //       System.out.println(player.getHealth());
 
-//       player.damageByGun1();
-//       player.damageByGun1();
-//       player.damageByGun2();
+       player.damageByGun1();
+       player.damageByGun1();
+       player.damageByGun2();
+       player.heal();
 
-        Player2 betterPlayer = new Player2("Ali","machine gun", 80, false);
-       betterPlayer.damageByGun1();
-       betterPlayer.damageByGun2();
 
 
     }

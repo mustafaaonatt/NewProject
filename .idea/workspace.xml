@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added made some more corrections on the methods">
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made some changes">
       <change beforePath="$PROJECT_DIR$/src/SimpleGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,7 +295,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680387228766</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="I added made some more corrections on the methods">
+      <created>1680387358111</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680387358111</updated>
+    </task>
+    <task id="LOCAL-00024" summary="I added damageByGun2 methods in main class">
+      <created>1680387505796</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680387505796</updated>
+    </task>
+    <task id="LOCAL-00025" summary="I made some changes">
+      <created>1680387881116</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680387881116</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +347,8 @@
     <MESSAGE value="I added methods" />
     <MESSAGE value="I added made some corrections on the methods" />
     <MESSAGE value="I added made some more corrections on the methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="I added made some more corrections on the methods" />
+    <MESSAGE value="I added damageByGun2 methods in main class" />
+    <MESSAGE value="I made some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made some changes" />
   </component>
 </project>
