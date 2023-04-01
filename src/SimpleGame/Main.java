@@ -12,7 +12,7 @@ public class Main {
 //        player.damageByGun2();
 
         Player2 betterPlayer = new Player2("Ali","machine gun", 80, true);
-
+        betterPlayer.damageByGun1();
 
 
     }
