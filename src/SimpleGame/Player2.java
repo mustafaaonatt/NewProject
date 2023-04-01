@@ -14,11 +14,13 @@ public class Player2 extends Player1{
     public void damageByGun1() {
         if(armour){
             health -= 20;
-            if (health <= 0)health = 0;
+            if (health <= 0)
+                health = 0;
             System.out.println("Armour is on. " + getName()  + "Got hit by gun 1. Health is reduced by 20." + " New health is " + health);
         }if (!armour){
             health -= 30;
-            if (health <= 0) health = 0;
+            if (health <= 0)
+                health = 0;
             System.out.println("Armour is off. " + getName() + " Got hit by gun 1. Health is reduced by 30." + " New health is " + health);
         }
         if (health == 0){
@@ -30,11 +32,13 @@ public class Player2 extends Player1{
     public void damageByGun2() {
         if(armour){
             health -= 40;
-            if (health <= 0) health = 0;
+            if (health <= 0)
+                health = 0;
             System.out.println("Armour is on. " + getName() + " Got hit by gun 2. Health is reduced by 40." + " New health is " + health);
         }if (!armour){
             health -= 50;
-            if (health <= 0) health = 0;
+            if (health <= 0)
+                health = 0;
             System.out.println("Armour is off." + getName() + " Got hit by gun 2. Health is reduced by 50." + " New health is " + health);
         }
         if(health == 0){
