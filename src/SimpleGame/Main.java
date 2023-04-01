@@ -11,8 +11,9 @@ public class Main {
 //       player.damageByGun1();
 //       player.damageByGun2();
 
-        Player2 betterPlayer = new Player2("Ali","machine gun", 80, true);
+        Player2 betterPlayer = new Player2("Ali","machine gun", 80, false);
        betterPlayer.damageByGun1();
+       betterPlayer.damageByGun2();
 
 
     }
