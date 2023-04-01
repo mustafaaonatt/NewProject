@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made some changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Player2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Player2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Player1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680392049459</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="I made some changes">
+      <created>1680392675312</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680392675313</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
