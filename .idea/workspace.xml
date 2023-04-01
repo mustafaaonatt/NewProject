@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added made some corrections on the methods" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added made some more corrections on the methods">
+      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680386744079</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="I added made some more corrections on the methods">
+      <created>1680387228766</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680387228766</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +325,7 @@
     <MESSAGE value="I create an object for Player2" />
     <MESSAGE value="I added methods" />
     <MESSAGE value="I added made some corrections on the methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="I added made some corrections on the methods" />
+    <MESSAGE value="I added made some more corrections on the methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added made some more corrections on the methods" />
   </component>
 </project>

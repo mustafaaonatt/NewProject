@@ -30,7 +30,7 @@ public class Player1 {
         if (this.health <= 0){
             this.health = 0;
         }
-        System.out.println("Got hit by gun 1. Health is reduced by 50. " +"New health is " + this.health);
+        System.out.println("Got hit by gun 2. Health is reduced by 50. " +"New health is " + this.health);
         if (this.health == 0){
             System.out.println(getName() + " is dead");
         }
