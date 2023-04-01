@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added main class and created constructor" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added if else condition in constructor">
+      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680385201222</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="I added if else condition in constructor">
+      <created>1680385559254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680385559254</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +284,7 @@
     <MESSAGE value="I added some class for Exceptions" />
     <MESSAGE value=" I created Simple Game" />
     <MESSAGE value="I added main class and created constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="I added main class and created constructor" />
+    <MESSAGE value="I added if else condition in constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added if else condition in constructor" />
   </component>
 </project>
