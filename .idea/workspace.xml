@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made some changes">
-      <change afterPath="$PROJECT_DIR$/src/QA62/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA62/Downloadable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA62/Ebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA62/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA62/Readable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA63/Exportable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA63/ReportTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA63/Tool.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I solved more question">
+      <change afterPath="$PROJECT_DIR$/src/QA64/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA64/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA66/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA66/C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA66/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA66/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +62,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReportTool">
-    <configuration name="GameController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameController.GameController" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA66.Main" />
       <module name="New Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameController.*" />
+          <option name="PATTERN" value="QA66.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleGame.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleGame.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA64.Test" />
       <module name="New Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SimpleGame.*" />
+          <option name="PATTERN" value="QA64.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReportTool" />
         <item itemvalue="Application.QA62.Main" />
         <item itemvalue="Application.QA61" />
-        <item itemvalue="Application.SimpleGame.Main" />
-        <item itemvalue="Application.GameController" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +351,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680393057906</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="I solved question">
+      <created>1680560363332</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680560363332</updated>
+    </task>
+    <task id="LOCAL-00032" summary="I solved more question">
+      <created>1680560380299</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680560380299</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,17 +398,8 @@
     <MESSAGE value="I added made some more corrections on the methods" />
     <MESSAGE value="I added damageByGun2 methods in main class" />
     <MESSAGE value="I made some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="I made some changes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/QA63/ReportTool.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="I solved question" />
+    <MESSAGE value="I solved more question" />
+    <option name="LAST_COMMIT_MESSAGE" value="I solved more question" />
   </component>
 </project>
