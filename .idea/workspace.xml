@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I solved more question">
-      <change afterPath="$PROJECT_DIR$/src/QA64/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA64/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA66/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA66/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA66/I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA66/Main.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I solved question 66">
+      <change afterPath="$PROJECT_DIR$/src/QA67/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA67/TestCall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -365,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680560380299</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="I solved question 66">
+      <created>1680563609499</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680563609499</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,6 +403,7 @@
     <MESSAGE value="I made some changes" />
     <MESSAGE value="I solved question" />
     <MESSAGE value="I solved more question" />
-    <option name="LAST_COMMIT_MESSAGE" value="I solved more question" />
+    <MESSAGE value="I solved question 66" />
+    <option name="LAST_COMMIT_MESSAGE" value="I solved question 66" />
   </component>
 </project>
