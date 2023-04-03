@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made some changes">
-      <change beforePath="$PROJECT_DIR$/src/SimpleGame/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleGame/Player1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA62/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA62/Downloadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA62/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA62/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA62/Readable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA63/Exportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA63/ReportTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QA63/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SimpleGame/Player2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +38,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -56,20 +66,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SimpleGame.Main">
-    <configuration name="Abstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Main" />
-      <module name="New Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReportTool">
     <configuration name="GameController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameController.GameController" />
       <module name="New Project" />
@@ -83,12 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions.Main" />
+    <configuration name="QA61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA61" />
+      <module name="New Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA62.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA62.Main" />
       <module name="New Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions.*" />
+          <option name="PATTERN" value="QA62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QA37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions.QA37" />
+    <configuration name="ReportTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA63.ReportTool" />
       <module name="New Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions.*" />
+          <option name="PATTERN" value="QA63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReportTool" />
+        <item itemvalue="Application.QA62.Main" />
+        <item itemvalue="Application.QA61" />
         <item itemvalue="Application.SimpleGame.Main" />
         <item itemvalue="Application.GameController" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.QA37" />
-        <item itemvalue="Application.Abstraction.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +341,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680392675313</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="I made some changes">
+      <created>1680392934007</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680392934007</updated>
+    </task>
+    <task id="LOCAL-00030" summary="I made some changes">
+      <created>1680393057906</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680393057906</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,5 +389,16 @@
     <MESSAGE value="I added damageByGun2 methods in main class" />
     <MESSAGE value="I made some changes" />
     <option name="LAST_COMMIT_MESSAGE" value="I made some changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QA63/ReportTool.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
