@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I create mortgage calculator some classes">
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagement/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagement/SchoolManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagement/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagement/Teacher.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I create School Management App">
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SchoolManagement.Main">
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+      <module name="New Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TeleApp.Main" />
       <module name="New Project" />
@@ -87,13 +90,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QA57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QA57" />
-      <module name="New Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.SchoolManagement.Main" />
         <item itemvalue="Application.MortgageCalculator.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SimpleGame.Main" />
-        <item itemvalue="Application.QA57" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680976331728</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="I create School Management App">
+      <created>1680979066341</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1680979066341</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,7 +448,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I created Exception package to exercise exceptions." />
     <MESSAGE value="I created Exception package to exercise exceptions.&#10;I added some more codes" />
     <MESSAGE value="I created Exception package to exercise exceptions.&#10;I added some more codes&#10;the last codes" />
     <MESSAGE value="I added some class for Exceptions" />
@@ -470,6 +472,7 @@
     <MESSAGE value="I solved question 57" />
     <MESSAGE value="I made some classes" />
     <MESSAGE value="I create mortgage calculator some classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="I create mortgage calculator some classes" />
+    <MESSAGE value="I create School Management App" />
+    <option name="LAST_COMMIT_MESSAGE" value="I create School Management App" />
   </component>
 </project>
