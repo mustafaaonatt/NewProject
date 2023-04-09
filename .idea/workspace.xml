@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I create loop for practice">
-      <change beforePath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did make some changes">
+      <change beforePath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -440,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680993977718</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="I did make some changes">
+      <created>1680995369818</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1680995369818</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +462,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added some class for Exceptions" />
     <MESSAGE value=" I created Simple Game" />
     <MESSAGE value="I added main class and created constructor" />
     <MESSAGE value="I added if else condition in constructor" />
@@ -480,6 +486,7 @@
     <MESSAGE value="I create School Management App" />
     <MESSAGE value="I create FizzBuzz for practice" />
     <MESSAGE value="I create loop for practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="I create loop for practice" />
+    <MESSAGE value="I did make some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I did make some changes" />
   </component>
 </project>
