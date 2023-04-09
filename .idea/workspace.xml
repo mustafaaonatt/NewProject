@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did make some changes">
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I Refactored while loops">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -447,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680995369818</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="I Refactored main class">
+      <created>1681059710399</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681059710399</updated>
+    </task>
+    <task id="LOCAL-00047" summary="I Refactored while loops">
+      <created>1681060646391</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681060646391</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,8 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" I created Simple Game" />
-    <MESSAGE value="I added main class and created constructor" />
     <MESSAGE value="I added if else condition in constructor" />
     <MESSAGE value="I added  damageByGun1 method" />
     <MESSAGE value="I added  damageByGun2 method" />
@@ -487,6 +501,8 @@
     <MESSAGE value="I create FizzBuzz for practice" />
     <MESSAGE value="I create loop for practice" />
     <MESSAGE value="I did make some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="I did make some changes" />
+    <MESSAGE value="I Refactored main class" />
+    <MESSAGE value="I Refactored while loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="I Refactored while loops" />
   </component>
 </project>
