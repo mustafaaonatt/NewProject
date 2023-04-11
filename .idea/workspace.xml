@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I Refactored while loops">
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I create method and made some changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MortgageCalculator.Main">
+  <component name="RunManager" selected="Application.SchoolManagement.Main">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="New Project" />
@@ -117,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchoolManagement.Main" />
         <item itemvalue="Application.MortgageCalculator.Main" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.SchoolManagement.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -463,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681060646391</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="I create method and made some changes">
+      <created>1681063988335</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681063988335</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added if else condition in constructor" />
     <MESSAGE value="I added  damageByGun1 method" />
     <MESSAGE value="I added  damageByGun2 method" />
     <MESSAGE value="I create an object for Player2" />
@@ -503,6 +510,7 @@
     <MESSAGE value="I did make some changes" />
     <MESSAGE value="I Refactored main class" />
     <MESSAGE value="I Refactored while loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="I Refactored while loops" />
+    <MESSAGE value="I create method and made some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I create method and made some changes" />
   </component>
 </project>

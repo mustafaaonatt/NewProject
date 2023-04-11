@@ -15,6 +15,7 @@ public class Methods implements SchoolManagement{
         String name = input.next();
 
         System.out.println("Enter ID number: ");
+        input.nextLine();
         try {
             String idNumber = input.next();
             idNumber = idNumber.replace(" ", ""); // This line of code is to catch the spaces when they come from the user.
@@ -42,7 +43,22 @@ public class Methods implements SchoolManagement{
                     throw new ArithmeticException(e.getMessage());
                 }
 
-            } else { // For teacher.
+            } else {
+
+                System.out.println("Enter your age ");
+                int age = input.nextInt();
+
+
+                System.out.println("Enter your department ");
+                input.nextLine();
+                String department = input.nextLine();
+
+                System.out.println("Enter your teacherId ");
+                String teacherId = input.nextLine();
+
+                Teacher teacher = new Teacher(name,idNumber,age,department,teacherId);
+                teachers.add(teacher);
+                System.out.println(teacher);
 
             }
 
@@ -69,19 +85,25 @@ public class Methods implements SchoolManagement{
                 subMenu();
                 break;
             case "2":
-                create();
+                search();
                 subMenu();
                 break;
             case "3":
-                create();
+                list();
                 subMenu();
                 break;
             case "4":
-                create();
+                delete();
                 subMenu();
                 break;
             case "5":
-                create();
+                Main.mainMenu();
+                break;
+            case "6":
+                System.exit(0);
+                break;
+            default:
+                System.out.println("You entered wrong number ");
                 subMenu();
                 break;
         }
@@ -89,21 +111,98 @@ public class Methods implements SchoolManagement{
 
     @Override
     public void search() {
+        System.out.println("**** Welcome to search " + personType + " page ***");
+        boolean flag = true;
+
+        System.out.println("Please enter ID number ");
+        String idNumber = input.next();
+
+        if(personType.equalsIgnoreCase("Student")){
+            for (Person each:student) {
+                if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                    System.out.println("The student you search " + each.getFullName());
+                    flag = false;
+                }else {
+                    System.out.println("There is no student in our system with such a ID number" + idNumber );
+                }
+                if (flag){
+                    System.out.println("There is no student in our system with such a ID number" + idNumber);
+                }
+            }
+        }else{
+            if(personType.equalsIgnoreCase("Student")){
+                for (Person each:teachers) {
+                    if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                        System.out.println("The student you search " + each.getFullName());
+                        flag = false;
+                    }else {
+                        System.out.println("There is no teacher in our system with such a ID number" + idNumber );
+                    }
+                    if (flag){
+                        System.out.println("There is no teacher in our system with such a ID number" + idNumber );
+                    }
+                }
+            }
+        }
 
     }
 
     @Override
     public void list() {
+        System.out.println("**** Welcome to search " + personType + " page ***");
+        if (personType.equalsIgnoreCase("student")){
+            for (Person each:student) {
+                System.out.println(each);
+            }
+        }else {
+            for (Person each : teachers){
+                System.out.println(each);
+            }
+        }
 
     }
 
     @Override
     public void exit() {
+        System.out.println("Bye bye come back again ");
 
     }
 
     @Override
     public void delete() {
+        System.out.println("**** Welcome to delete " + personType + " page ***");
+
+        boolean flag = true;
+
+        System.out.println("Please enter ID number ");
+        String idNumber = input.next();
+
+        if(personType.equalsIgnoreCase("Student")){
+            for (Person each:student) {
+                if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                    System.out.println("deleted student " + each.getFullName());
+                    student.remove(each);
+                    flag = false;
+                }else {
+                    System.out.println("There is no student in our system with such a ID number" + idNumber );
+                }
+                if (flag){
+                    System.out.println("There is no student in our system with such a ID number" + idNumber);
+                }
+            }
+        }else{
+                for (Person each:teachers) {
+                    if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                        System.out.println("The teacher you search " + each.getFullName());
+                        teachers.remove(each);
+                        flag = false;
+                    }
+                    if (flag){
+                        System.out.println("There is no teacher in our system with such a ID number" + idNumber );
+                    }
+                }
+        }
+
 
     }
 }
