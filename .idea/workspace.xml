@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I create method and made some changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Teacher.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I  made some changes on School mang. app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -471,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681063988335</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="I  made some changes on School mang. app">
+      <created>1681243547357</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681243547357</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added  damageByGun1 method" />
     <MESSAGE value="I added  damageByGun2 method" />
     <MESSAGE value="I create an object for Player2" />
     <MESSAGE value="I added methods" />
@@ -511,6 +512,7 @@
     <MESSAGE value="I Refactored main class" />
     <MESSAGE value="I Refactored while loops" />
     <MESSAGE value="I create method and made some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="I create method and made some changes" />
+    <MESSAGE value="I  made some changes on School mang. app" />
+    <option name="LAST_COMMIT_MESSAGE" value="I  made some changes on School mang. app" />
   </component>
 </project>
