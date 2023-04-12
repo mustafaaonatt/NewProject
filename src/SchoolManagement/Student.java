@@ -15,6 +15,16 @@ public class Student extends Person {
         this.course = course;
     }
 
+    public Student(String fullName, int age, int studentNumber) {
+        super(fullName, age);
+        this.studentNumber = studentNumber;
+        this.course = course;
+    }
+
+    public Student(String course) {
+        this.course = course;
+    }
+
     public Student(){
     }
 

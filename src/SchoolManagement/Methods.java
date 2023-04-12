@@ -75,7 +75,8 @@ public class Methods implements SchoolManagement{
                 "2- SEARCH\n" +
                 "3- LIST\n" +
                 "4- DELETE\n" +
-                "5- MAIN MENU\n" +
+                "5- UPDATE\n" +
+                "6- MAIN MENU\n" +
                 "Q- EXIT");
         String option=input.next();
 
@@ -97,9 +98,13 @@ public class Methods implements SchoolManagement{
                 subMenu();
                 break;
             case "5":
+                 update();
+                 subMenu();
+                 break;
+            case "6":
                 Main.mainMenu();
                 break;
-            case "6":
+            case "Q":
                 System.exit(0);
                 break;
             default:
@@ -203,6 +208,82 @@ public class Methods implements SchoolManagement{
                 }
         }
 
+
+    }
+
+    @Override
+    public void update() {
+        System.out.println("**** Welcome to update " + personType + " page ***");
+        boolean flag = true;
+
+        System.out.println("Please enter your ID number");
+        String idNumber = input.next();
+        input.nextLine();
+
+        if(personType.equalsIgnoreCase("Student")){
+            for (Student each:student) {
+                if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                    System.out.println("student you want to update " + each);
+
+                    System.out.println("Please enter your full name ");
+                    String name = input.nextLine();
+                    each.setFullName(name);
+
+                    System.out.println("Enter your age");
+                    int age = input.nextInt();
+                    each.setAge(age);
+
+
+                    System.out.println("Please enter student number ");
+                    int studentNumber = input.nextInt();
+                    each.setIdNumber(idNumber);
+
+                    System.out.println("Please enter your course ");
+                    String course = input.next();
+                    each.setCourse(course);
+
+                    System.out.println("Updated student " + each);
+
+                    flag = false;
+
+                }
+                if (flag){
+                    System.out.println("There is no student in our system with such a ID number" + idNumber);
+                }
+            }
+        }else{
+            for (Teacher each:teachers) {
+                if (idNumber.equalsIgnoreCase(each.getIdNumber())){
+                    System.out.println("Teacher  you want to update " + each);
+
+
+                    System.out.println("Enter your Department ");
+                    String department = input.nextLine();
+                    each.setDepartment(department);
+
+                    System.out.println("Enter your Teacher ID");
+                    String teacherId = input.nextLine();
+                    each.setTeacherID(teacherId);
+
+                    System.out.println("Enter your full name");
+                    String fullName = input.nextLine();
+                    each.setFullName(fullName);
+
+                    System.out.println("Enter your age ");
+                    int age = input.nextInt();
+                    each.setAge(age);
+
+                    System.out.println("Updated teacher  " + each);
+
+
+
+                    flag = false;
+                }
+                if (flag){
+                    System.out.println("There is no teacher in our system with such a ID number" + idNumber );
+                }
+            }
+        }
 
     }
 }

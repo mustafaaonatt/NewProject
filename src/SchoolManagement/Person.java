@@ -17,6 +17,9 @@ public class Person {
 
     }
 
+    public Person(String fullName, int age) {
+    }
+
     public String getFullName() {
         return fullName;
     }

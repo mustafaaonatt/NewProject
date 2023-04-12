@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I  made some changes on School mang. app" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I  made some changes on School mang. app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/New Project/SchoolManagement/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/SchoolManagement/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/SchoolManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/SchoolManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagement/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagement/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00001" summary="I did some exercise on my own.">
-      <created>1679181630131</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1679181630131</updated>
     </task>
     <task id="LOCAL-00002" summary="I did some exercise on my own.">
       <created>1679183365789</created>
@@ -473,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681243547357</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="I  made some changes on School mang. app">
+      <created>1681324478827</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681324478828</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
