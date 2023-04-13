@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I  made some changes on School mang. app">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made practice for interview question">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +59,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question01">
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
-      <module name="New Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question2">
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="New Project" />
@@ -101,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Question2" />
+      <module name="New Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SchoolManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SchoolManagement.Main" />
       <module name="New Project" />
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question2" />
         <item itemvalue="Application.Question01" />
         <item itemvalue="Application.SchoolManagement.Main" />
         <item itemvalue="Application.MortgageCalculator.Main" />
         <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00004" summary="I did some exercise on my own.">
-      <created>1679183566026</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1679183566026</updated>
     </task>
     <task id="LOCAL-00005" summary="I did some exercise on my own.">
       <created>1679517407985</created>
@@ -476,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681423099120</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="I made practice for interview question">
+      <created>1681425968278</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1681425968278</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added  damageByGun2 method" />
     <MESSAGE value="I create an object for Player2" />
     <MESSAGE value="I added methods" />
     <MESSAGE value="I added made some corrections on the methods" />
@@ -516,6 +520,7 @@
     <MESSAGE value="I Refactored while loops" />
     <MESSAGE value="I create method and made some changes" />
     <MESSAGE value="I  made some changes on School mang. app" />
-    <option name="LAST_COMMIT_MESSAGE" value="I  made some changes on School mang. app" />
+    <MESSAGE value="I made practice for interview question" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made practice for interview question" />
   </component>
 </project>
