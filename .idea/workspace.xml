@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made practice for interview question two">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question02.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made practice for interview question three">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +60,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question03">
-    <configuration name="MortgageCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MortgageCalculator.Main" />
-      <module name="New Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MortgageCalculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question04">
     <configuration name="Question01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Question01" />
       <module name="New Project" />
@@ -113,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Question04" />
+      <module name="New Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SchoolManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SchoolManagement.Main" />
       <module name="New Project" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question04" />
         <item itemvalue="Application.Question03" />
         <item itemvalue="Application.Question02" />
         <item itemvalue="Application.Question01" />
         <item itemvalue="Application.SchoolManagement.Main" />
-        <item itemvalue="Application.MortgageCalculator.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -144,13 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00006" summary="I added some classes for exercise">
-      <created>1679520610921</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1679520610921</updated>
     </task>
     <task id="LOCAL-00007" summary="I added some classes for exercise">
       <created>1679521847934</created>
@@ -488,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681426387637</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="I made practice for interview question three">
+      <created>1681427384854</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681427384854</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added methods" />
     <MESSAGE value="I added made some corrections on the methods" />
     <MESSAGE value="I added made some more corrections on the methods" />
     <MESSAGE value="I added damageByGun2 methods in main class" />
@@ -528,6 +527,7 @@
     <MESSAGE value="I  made some changes on School mang. app" />
     <MESSAGE value="I made practice for interview question" />
     <MESSAGE value="I made practice for interview question two" />
-    <option name="LAST_COMMIT_MESSAGE" value="I made practice for interview question two" />
+    <MESSAGE value="I made practice for interview question three" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made practice for interview question three" />
   </component>
 </project>
