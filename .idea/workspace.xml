@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made practice for interview question three">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Question04.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did Question 4">
+      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/MortgageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/MortgageReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="MortgageCalculator.MortgageCalculator" />
+      <recent name="MortgageCalculator.MortgageReport" />
+      <recent name="MortgageCalculator.Console" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Question04">
     <configuration name="Question01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Question01" />
@@ -144,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00007" summary="I added some classes for exercise">
-      <created>1679521847934</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1679521847934</updated>
     </task>
     <task id="LOCAL-00008" summary="I created Exception package to exercise exceptions.">
       <created>1679678838911</created>
@@ -488,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681427384854</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="I did Question 4">
+      <created>1681511030037</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1681511030038</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added made some corrections on the methods" />
     <MESSAGE value="I added made some more corrections on the methods" />
     <MESSAGE value="I added damageByGun2 methods in main class" />
     <MESSAGE value="I made some changes" />
@@ -528,6 +537,7 @@
     <MESSAGE value="I made practice for interview question" />
     <MESSAGE value="I made practice for interview question two" />
     <MESSAGE value="I made practice for interview question three" />
-    <option name="LAST_COMMIT_MESSAGE" value="I made practice for interview question three" />
+    <MESSAGE value="I did Question 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="I did Question 4" />
   </component>
 </project>
