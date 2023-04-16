@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I did Question 4">
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/MortgageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/MortgageReport.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I extracted some field and methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MortgageCalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,34 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00008" summary="I created Exception package to exercise exceptions.">
-      <created>1679678838911</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1679678838911</updated>
-    </task>
-    <task id="LOCAL-00009" summary="I created Exception package to exercise exceptions.&#10;I added some more codes">
-      <created>1679679133848</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1679679133848</updated>
-    </task>
-    <task id="LOCAL-00010" summary="I created Exception package to exercise exceptions.&#10;I added some more codes&#10;the last codes">
-      <created>1679679958981</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1679679958981</updated>
-    </task>
-    <task id="LOCAL-00011" summary="I added some class for Exceptions">
-      <created>1679856000755</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1679856000755</updated>
     </task>
     <task id="LOCAL-00012" summary="I added some class for Exceptions">
       <created>1679856008043</created>
@@ -498,7 +466,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681511030038</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="I extracted console class">
+      <created>1681585690056</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585690056</updated>
+    </task>
+    <task id="LOCAL-00058" summary="I extracted Mortgage calculator class">
+      <created>1681585730953</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585730953</updated>
+    </task>
+    <task id="LOCAL-00059" summary="I extracted MortgageReport  class">
+      <created>1681585761948</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585761948</updated>
+    </task>
+    <task id="LOCAL-00060" summary="I extracted some field and methods">
+      <created>1681585785599</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585785599</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,10 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I added made some more corrections on the methods" />
-    <MESSAGE value="I added damageByGun2 methods in main class" />
-    <MESSAGE value="I made some changes" />
-    <MESSAGE value="I solved question" />
     <MESSAGE value="I solved more question" />
     <MESSAGE value="I solved question 66" />
     <MESSAGE value="I solved question 67" />
@@ -538,6 +530,10 @@
     <MESSAGE value="I made practice for interview question two" />
     <MESSAGE value="I made practice for interview question three" />
     <MESSAGE value="I did Question 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="I did Question 4" />
+    <MESSAGE value="I extracted console class" />
+    <MESSAGE value="I extracted Mortgage calculator class" />
+    <MESSAGE value="I extracted MortgageReport  class" />
+    <MESSAGE value="I extracted some field and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="I extracted some field and methods" />
   </component>
 </project>
