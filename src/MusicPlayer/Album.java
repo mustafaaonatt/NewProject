@@ -1,6 +1,7 @@
 package MusicPlayer;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Album {
     private String name;
@@ -33,4 +34,25 @@ public class Album {
             return false;
         }
     }
+
+    public boolean addToPlaylist(int trackNumber, LinkedList<Song> Playlist){
+        int index = trackNumber -1;
+        if (index > 0 && index <= this.songs.size()){
+            Playlist.add(this.songs.get(index));
+            return true;
+        }
+        System.out.println("This album does not have song with the track number"+trackNumber );
+        return false;
+    }
+    public boolean addToPlayList(String title,LinkedList<Song> PlayList){
+        for (Song checkedSong : this.songs){
+            if (checkedSong.getTitle().equals(title)){
+                PlayList.add(checkedSong);
+                return true;
+            }
+        }
+        System.out.println(title + " there is no such song in album");
+        return false;
+    }
+
 }
