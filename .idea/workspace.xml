@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added some questions">
-      <change afterPath="$PROJECT_DIR$/src/QA74.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/New Project/MortgageCalculator/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00021" summary="I added made some corrections on the methods">
-      <created>1680386744079</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1680386744079</updated>
     </task>
     <task id="LOCAL-00022" summary="I added made some more corrections on the methods">
       <created>1680387228766</created>
@@ -490,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681684871705</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="I added some questions">
+      <created>1681836442615</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1681836442615</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
