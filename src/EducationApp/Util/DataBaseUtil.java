@@ -1,4 +1,4 @@
-package EducationApp;
+package EducationApp.Util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
