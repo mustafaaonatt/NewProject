@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I Added java cer.">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilesInAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added QueryUtil Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/New Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EducationApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EducationApp/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +60,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +71,20 @@
       <recent name="MortgageCalculator.Console" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question">
+  <component name="RunManager" selected="Application.EducationApp.Main">
+    <configuration name="EducationApp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EducationApp.Main" />
+      <module name="New Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EducationApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilesInAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FilesInAction" />
       <module name="New Project" />
@@ -93,13 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QA74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QA74" />
-      <module name="New Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QA78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QA78" />
       <module name="New Project" />
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EducationApp.Main" />
         <item itemvalue="Application.Question" />
         <item itemvalue="Application.FilesInAction" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.QA78" />
-        <item itemvalue="Application.QA74" />
       </list>
     </recent_temporary>
   </component>
@@ -132,41 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00026" summary="I made some changes">
-      <created>1680388169281</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1680388169281</updated>
-    </task>
-    <task id="LOCAL-00027" summary="I made some changes">
-      <created>1680392049459</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1680392049459</updated>
-    </task>
-    <task id="LOCAL-00028" summary="I made some changes">
-      <created>1680392675312</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1680392675313</updated>
-    </task>
-    <task id="LOCAL-00029" summary="I made some changes">
-      <created>1680392934007</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1680392934007</updated>
-    </task>
-    <task id="LOCAL-00030" summary="I made some changes">
-      <created>1680393057906</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1680393057906</updated>
     </task>
     <task id="LOCAL-00031" summary="I solved question">
       <created>1680560363332</created>
@@ -476,7 +446,42 @@
       <option name="project" value="LOCAL" />
       <updated>1681858377711</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="I Added java cer.">
+      <created>1682674713081</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1682674713081</updated>
+    </task>
+    <task id="LOCAL-00076" summary="I have created Main Class for Education App and added  attitudes">
+      <created>1682677071858</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1682677071858</updated>
+    </task>
+    <task id="LOCAL-00077" summary="I made Connection with mysql">
+      <created>1682677412511</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1682677412511</updated>
+    </task>
+    <task id="LOCAL-00078" summary="I added DatabaseService Class">
+      <created>1682677837589</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1682677837589</updated>
+    </task>
+    <task id="LOCAL-00079" summary="I added QueryUtil Class">
+      <created>1682678021489</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1682678021489</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,10 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="I did make some changes" />
-    <MESSAGE value="I Refactored main class" />
-    <MESSAGE value="I Refactored while loops" />
-    <MESSAGE value="I create method and made some changes" />
     <MESSAGE value="I  made some changes on School mang. app" />
     <MESSAGE value="I made practice for interview question" />
     <MESSAGE value="I made practice for interview question two" />
@@ -517,7 +518,11 @@
     <MESSAGE value="I created basic music player and first class of it" />
     <MESSAGE value="I Added Album class and two method inside" />
     <MESSAGE value="I Added java cer." />
-    <option name="LAST_COMMIT_MESSAGE" value="I Added java cer." />
+    <MESSAGE value="I have created Main Class for Education App and added  attitudes" />
+    <MESSAGE value="I made Connection with mysql" />
+    <MESSAGE value="I added DatabaseService Class" />
+    <MESSAGE value="I added QueryUtil Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added QueryUtil Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
