@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I added QueryUtil Class">
+    <list default="true" id="7e83a150-d7a3-4dca-af79-d4382d2149aa" name="Changes" comment="I made some  changes">
+      <change afterPath="$PROJECT_DIR$/src/EducationApp/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/New Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EducationApp/DataBaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EducationApp/DataBaseService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EducationApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EducationApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EducationApp/Util/QueryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EducationApp/Util/QueryUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +56,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="MortgageCalculator.MortgageCalculator" />
@@ -137,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675903244713</updated>
-    </task>
-    <task id="LOCAL-00031" summary="I solved question">
-      <created>1680560363332</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1680560363332</updated>
     </task>
     <task id="LOCAL-00032" summary="I solved more question">
       <created>1680560380299</created>
@@ -481,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682678021489</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="I made some  changes">
+      <created>1682680817867</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1682680817867</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="I  made some changes on School mang. app" />
     <MESSAGE value="I made practice for interview question" />
     <MESSAGE value="I made practice for interview question two" />
     <MESSAGE value="I made practice for interview question three" />
@@ -522,7 +523,8 @@
     <MESSAGE value="I made Connection with mysql" />
     <MESSAGE value="I added DatabaseService Class" />
     <MESSAGE value="I added QueryUtil Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="I added QueryUtil Class" />
+    <MESSAGE value="I made some  changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made some  changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
